@@ -421,3 +421,17 @@ git commit -m demo.html
 git status -s
 git log --oneline
 history -w comandosgit.txt
+ls
+git status -s
+git add comandosgit.txt
+git status -s
+git reset comandosgit.txt
+git status -s
+git add comandosgit.txt
+git status -s
+git commit -m comandosgit.txt
+git status -s
+git log --oneline
+history -w comandosgit.txt
+git diff comandosgit.txt
+history -w  comandosgit.txt
