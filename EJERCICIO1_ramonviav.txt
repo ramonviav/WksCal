@@ -1,0 +1,31 @@
+Ramón Viñas Avalos
+which git
+git config --global user.name ramonviav
+git config --global user.email ramonviav@gmail.com
+ls ~/.gitconfig
+cat ~/.gitconfig
+pwd
+cd ~/.ssh
+ssh
+ssh-keygen
+ssh-keygen -t rsa ramonviav@gmail.com
+ssh-keygen -t rsa -C ramonviav@gmail.com
+cd ~/.ssh
+ls
+ls -i
+ls -lt
+ls -a
+cat id_rsa.pub
+ls
+xclip-sel clip < ~/.ssh/id_rsa.pub
+xclip -sel clip < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCl9FCxKt3qk6YxIUcleEEF4p00xKtmjwypIip87Oa8kNop++86hPv+6QLmF4FIIUtCacjQzbWsfQWbCt+uzMIMNcWxWSozrzsthaI+R9Fq8jZlnNX0cYQfZa/lNJFXplfNnUpHkahOPjP0SnpvtEFYDQelzM63pIITL497TXMiKaVG4ikUR5gd4gHjOHpdAEGmp5wcvOytI6uiBh0dGjhGIKTSeeziddkFzGs8rXzpQ9b/9mwjiJabVjU1PbIhx3wGhJpd2X7rTf/Y0In0DCdYsSY1ozUgDAsMSU7ZJ1/91aJo7K2qAqtZlr04vSy5xG68iLlpWJ1gE5HfjmSQNUH ramonviav@gmail.com
+The authenticity of host 'github.com (192.30.253.113)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? y
+Please type 'yes' or 'no': yes
+Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
+Hi ramonviav! You've successfully authenticated, but GitHub does not provide shell access.
+cd
+history -w ramonviav.txt
