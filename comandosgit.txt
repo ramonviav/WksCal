@@ -1,0 +1,423 @@
+sudo aptitude install xclip
+sudo apt-get update
+sudo apt-get intall xclip
+sudo apt-get install xclip
+xclip
+ls
+whoami
+id
+pwd
+hostname
+who
+finder
+finger
+sudo apt install finger
+finger
+w
+clear
+w
+date
+cal
+who
+pwd
+whoami
+id
+clear
+man intro
+man -k socket
+clear
+ls
+cd Documents
+ls
+cat Miriadax.html
+ls
+cat demo.html
+more demo.html
+ls
+clear
+less demo.html
+cp demo.html demo1.html
+ls
+rm demo1.html
+ls
+filcat demo.html
+file demo.html
+df
+du
+cd
+cd -
+cd
+cd -
+cd -rva
+cd /home/rva
+ls
+cd -
+ls
+clear
+ls -ia
+ls -ai
+ls -i
+ls a
+ls -a
+ls -ia
+clear
+ls
+chmod a+r demo.html
+ls -l
+ls -l demo.html
+chmod g+w demo.html
+ls -l demo.html
+chm
+ls -lt demo.html
+clear
+LS
+ls
+ls -i
+ls -ai
+ls -lt demo.html
+stat demo.html
+ls -i
+ls -lt
+ls -la
+ls -t
+ls -ltr
+ls -i
+clear
+ls -i
+ls -l
+ls -a
+ls -la
+ls -a
+ls -lt
+ls -ltr
+ls -la
+ls -i
+ls -l
+ls -a
+ls -t
+ls -lt
+ls -ltr
+ls -la
+ls -ltra
+ls -ltrai
+vi
+Ramón Viñas Avalos
+which git
+git config --global user.name ramonviav
+git config --global user.email ramonviav@gmail.com
+ls -la
+which git
+cd /usr/bin/git
+cd ..
+ls
+pwd
+cd..
+cd
+ls
+cd /usr
+ls
+cd bin
+ls
+cd git
+which git
+cd..
+cd
+ls
+cd Documents
+ls
+cd ~/.ssh
+ls
+cd..
+cd
+ls
+[ -f ~/.gitconfig ] && echo "Existe" || echo "No Existe"
+cd ~/.gitconfig
+ls ~/.gitconfig
+cd ~/.ssh
+ssh keygen -t rsa -C ramonviav@gmail.com
+ssh -keygen -t rsa -C ramonviav@gmail.com
+ssh
+ssh-keygen -t rsa -C ramonviav@gmail.com
+cd ~/.ssh
+ls
+xclip-ser clip < ~id_rsa.pub
+pwd
+ls
+[ -f ~/.ssh ] && echo "Existe" || echo "No Existe"
+vi ~/.gitconfig
+ssh-keygen -t rsa -C ramonviav@gmail.com
+cd ~/.ssh
+ls ~/.ssh
+pwd
+ls
+ls -i
+ls -a
+ssh-keygen -t rsa -C ramonviav@gmail.com
+pwd
+ls -i
+ls -a
+ls -lta
+cd ~/ssh
+cd ~/.ssh
+ls -la
+ls
+rm id_rsa.pub
+rm id_rsa.pub.pub
+rm keyGit
+rm keyGit.pub
+cd ~/.gitconfig
+cd ~/.ssh
+ls ~/.gitconfig
+ls ~/.ssh
+ssh-keygen -t rsa ramonvia@gmail.com
+ssh-keygen -t rsa -C ramonvia@gmail.com
+ls
+cd ~/.ssh
+ls ~/.ssh
+which git
+git 
+git config --global user.name ramonviav
+git config --global user.email ramonviav@gmail.com
+cd ~/.gitconfig
+ls ~/.gitconfig
+cat ~/.gitconfig
+pwd
+cd ~/.ssh
+ssh
+ssh-keygen
+cd ~/.ssh
+sshkeygen
+ssh-keygen -t rsa ramonviav@gmail.com
+ssh-keygen -t rsa -C ramonviav@gmail.com
+cd ~/.ssh
+ls
+ls -i
+lsl -a
+ls -lt
+ls -a
+rm keyGit
+rm keyGit.pub
+ls
+cat id_rsa.pub
+xclip-sel clip < id_rsa.pub
+xclip
+xclip -sel clip < id_rsa.pub
+ssh -T git@github.com
+ls
+cd ~/.ssh
+ls
+ls -la
+cd..
+ls
+cd
+ls -a
+ssh-keygen -t rsa -C ramonviav@gmail.com
+cd ~/.ssh
+ls
+ssh-keygen -t rsa -C ramonviav@gmail.com
+ls
+xclip-sel clip < ~/.ssh/id_rsa.pub
+xclip -sel clip < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCl9FCxKt3qk6YxIUcleEEF4p00xKtmjwypIip87Oa8kNop++86hPv+6QLmF4FIIUtCacjQzbWsfQWbCt+uzMIMNcWxWSozrzsthaI+R9Fq8jZlnNX0cYQfZa/lNJFXplfNnUpHkahOPjP0SnpvtEFYDQelzM63pIITL497TXMiKaVG4ikUR5gd4gHjOHpdAEGmp5wcvOytI6uiBh0dGjhGIKTSeeziddkFzGs8rXzpQ9b/9mwjiJabVjU1PbIhx3wGhJpd2X7rTf/Y0In0DCdYsSY1ozUgDAsMSU7ZJ1/91aJo7K2qAqtZlr04vSy5xG68iLlpWJ1gE5HfjmSQNUH ramonviav@gmail.com
+The authenticity of host 'github.com (192.30.253.113)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? y
+Please type 'yes' or 'no': yes
+Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
+Hi ramonviav! You've successfully authenticated, but GitHub does not provide shell access.
+history -W ramonviav.txt
+history -w ramonviav.txt
+cd
+history -w ramonviav.txt
+cp ramonviav.txt ramonviav1.txt
+ssh -T git@github.com
+history -w ramonviav1.txt
+ssh -T git@github.com
+history -w ramonviav1.txt
+Hi ramonviav! You've successfully authenticated, but GitHub does not provide shell access.
+cal
+cal > calendario.txt
+cat calendario.txt
+cal >> calendario1.txt
+cat calendario1.txt
+cal > calendario1.txt
+cat calendario1.txt
+cal >> calendario1.txt
+cat calendario1.txt
+wc << fin
+esto es ua prueba
+fin
+cat fin
+wc << fin > prueba
+esto es una prueba
+fin
+cat prueba
+cal > calendario1
+cat calendario1
+cal >> calendario1
+cata calendario1
+cat calendario1
+grep -w Junio calendario1
+grep -w 2 calendario1
+grep -w 2 calendario1 > busqueda
+cat busqueda
+clear
+nombre=ramon
+echo $nombre
+echo ${nombre} viñas
+printenv
+cat . profile
+cat .profile
+ls
+cd desktop
+cd Documents
+ls
+which pwd
+file 
+cd..
+cd
+ls
+clear
+find
+find . -name *.html 
+find . -name *.html -print
+cd descktop
+cd desktop
+ls
+mv calendario1 Documents
+ls
+md calendario.txt Documents
+mvd calendario.txt Documents
+rm calendario1.txt
+rm calendario.txt
+ls
+cat preuba
+cata prueba
+cat prueba
+rm prueba
+ls
+cat busqueda
+rm busqueda
+ls
+quit
+exit
+ls
+cd Desctip
+cd Desktop
+ls
+cd..
+cd
+cd Documents
+ls
+ejemploCase
+ejemploCase.bsh
+ejemploCase
+chmod +x ejemploCase
+bash -x ejemploCase
+bash -x ejemploCase 1
+bash -x ejemploCase 2
+bash -x ejemploCase 25
+bash -x ejemploCase 19
+bash -x ejemploCase 1 9
+bash -x ejemploCase
+bash -x ejemploCase 4
+vi ejemploCase
+ls
+bash  ejemploCase 4
+bash  ejemploCase 1
+bash  ejemploCase 
+ejemploCase
+bash ejemploCas 89
+bash ejemploCase 98
+bash ejemploCase 9 3 3
+bash ejemploCase 9 3 3 3 4 545 55              45
+bash ejemploCase 9 3 3 3 4 545 55              454ñk ñlk345 4ñk5j4lk5
+ls
+chmod +x ejemploif
+chmod +x ejemploIf
+ejemploIf
+ejemploCase
+bash ejemploIf
+bash ejemploIf 2
+bash -x ejemploIf 2
+chmod -x ejemploIf
+bash ejemploIf 
+chmod -x ejemploIf
+bash ejemploIf 
+bash ejemploIf ~
+bash ejemploIf ~ asd er43 t4 3~
+chmod //,,''',./"|:{}_+_))-
+chmod -x ejemploVariable
+cd Documents
+chmod -x ejemploVariable
+bash ejemploVariable
+chmod -x ejemploFor
+bash ejemploFor
+bash -x ejemploFor
+bash ejemploFor
+bash -x ejemploWhile
+bash ejemploWhile
+clear
+bash ejemploWhile
+chmod -z gordos
+chmod -x gordos
+gordos
+bash gordos
+bash -x gordos $HOME
+./godos $HOME
+./gordos $HOME
+ls
+./gordos
+chmod -x gordos
+./gordos
+bash gordos
+bash gordos 3
+bash gordos
+cd
+apt-get install xclip
+sudo apt-get install xclip
+sudo apt-get install sublime-text
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update
+sudo apt-get install sublime-text
+sublt
+subl .
+git --version
+apt-get install git
+sudo apt-get install git
+get --version
+git --version
+git --help
+git config --list
+ls
+cd Desktop
+ls
+cd .. 
+cd Documents
+git -version
+cd Descktop
+cd Desktop
+ls
+cd ..
+ls
+cd Desktop
+ls
+cd Documents
+cd
+cd Documents
+ls
+cd IntroUnix
+cd WksCal
+ls
+clear
+git init
+git log --oneline
+git status -s
+git add demo.html
+git status -s
+git commit -m demo.html
+git status -s
+git log --oneline
+history -w comandosgit.txt
